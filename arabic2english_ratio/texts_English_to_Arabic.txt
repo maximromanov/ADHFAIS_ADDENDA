@@ -1,0 +1,11 @@
+texts_English_to_Arabic
+# SUMMARY STATISTICS
+
+Count: 505
+Mean: 1.15
+Median: 1.1492776886035314
+Standard Deviation: 0.08
+Minimum: 0.9661016949152542
+25th Percentile (Q1): 1.091588785046729
+75th Percentile (Q3): 1.206581352833638
+Maximum: 1.4009546539379476
