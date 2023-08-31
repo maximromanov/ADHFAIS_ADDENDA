@@ -36,5 +36,5 @@ Minimum: 0.966
 Maximum: 1.4009
 ```
 
-![[texts_English_to_Arabic.png]]
+![texts_English_to_Arabic.png](texts_English_to_Arabic.png)
 

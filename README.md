@@ -1,4 +1,5 @@
-# ADHFAIS_MINOR
+# ADHFAIS_ADDENDA
 
-Results of Experiments for ADHFAIS (Archive)
+Additional Data and Files for the ADHFAIS BOOK
 
+To be published on Zenodo upon completion.
